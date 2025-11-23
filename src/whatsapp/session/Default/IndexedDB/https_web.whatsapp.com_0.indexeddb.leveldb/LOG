@@ -1,0 +1,25 @@
+2025/11/23-08:34:58.947 1770 Reusing MANIFEST C:\Users\hyens\Documents\development\whatsapp-gateway\src\whatsapp\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/23-08:34:58.948 1770 Recovering log #913
+2025/11/23-08:34:58.982 1770 Reusing old log C:\Users\hyens\Documents\development\whatsapp-gateway\src\whatsapp\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000913.log 
+2025/11/23-08:34:58.982 1770 Delete type=2 #912
+2025/11/23-08:35:00.444 2f08 Level-0 table #918: started
+2025/11/23-08:35:00.450 2f08 Level-0 table #918: 265744 bytes OK
+2025/11/23-08:35:00.450 2f08 Delete type=0 #913
+2025/11/23-08:35:00.451 2f08 Manual compaction at level-0 from ' >\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' ?\x01\x00\x00\x00' @ 0 : 0; will stop at ' ?\x01\x00\x00\x05' @ 291256 : 1
+2025/11/23-08:35:00.451 2f08 Compacting 1@0 + 1@1 files
+2025/11/23-08:35:00.539 2f08 Generated table #919@0: 83996 keys, 1655605 bytes
+2025/11/23-08:35:00.539 2f08 Compacted 1@0 + 1@1 files => 1655605 bytes
+2025/11/23-08:35:00.540 2f08 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/23-08:35:00.540 2f08 Delete type=2 #918
+2025/11/23-08:35:00.541 2f08 Manual compaction at level-0 from ' ?\x01\x00\x00\x05' @ 291256 : 1 .. ' ?\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/23-08:35:00.541 2f08 Level-0 table #921: started
+2025/11/23-08:35:00.543 2f08 Level-0 table #921: 5919 bytes OK
+2025/11/23-08:35:00.544 2f08 Delete type=2 #915
+2025/11/23-08:35:00.544 2f08 Delete type=0 #917
+2025/11/23-08:35:00.545 2f08 Manual compaction at level-0 from ' ?\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' @\x01\x00\x00\x00' @ 0 : 0; will stop at ' ?\x01\x00\x00\x05' @ 291400 : 0
+2025/11/23-08:35:00.545 2f08 Compacting 1@0 + 1@1 files
+2025/11/23-08:35:00.634 2f08 Generated table #922@0: 83994 keys, 1658140 bytes
+2025/11/23-08:35:00.634 2f08 Compacted 1@0 + 1@1 files => 1658140 bytes
+2025/11/23-08:35:00.635 2f08 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/23-08:35:00.635 2f08 Delete type=2 #921
+2025/11/23-08:35:00.636 2f08 Manual compaction at level-0 from ' ?\x01\x00\x00\x05' @ 291400 : 0 .. ' @\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
